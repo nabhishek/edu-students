@@ -1,0 +1,2 @@
+C:\Users\apchin\Desktop\Calculator\Calculator\Calculator\Calculator.UWP\Calculator.UWP.csproj;x86
+C:\Users\apchin\Desktop\Calculator\Calculator\Calculator\Calculator\Calculator.csproj;neutral
